@@ -1,7 +1,56 @@
 body {
   min-width: 380px;
 }
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .header {
+  background-image: url("/imgs/anthony-delanoix-PxrRwO4CwAI-unsplash.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
   margin: auto;
   text-align: center;
+  padding-top: 15%;
+  /* padding-bottom: 30%; */
+  height: 85vmax;
+}
+
+.projects {
+  padding: 2% 2%;
+  z-index: 1;
+}
+
+.projectTitle {
+  padding: 2% 1%;
+}
+
+.bundle {
+  border: 1px solid rgba(220, 220, 220, 0.8);
+  margin: 2% 1%;
+  padding: 2% 2%;
+  max-width: 30%
+}
+
+.thumbnail {
+  margin: auto;
+  max-width: 350px;
+  max-height: 380px;
+}
+
+.btn-light {
+  border: 1px solid rgba(220, 220, 220, 0.8);
+}
+
+.rgbImg {
+  border: 1px solid rgba(220, 220, 220, 0.8);
+}
+
+#headerNote {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: auto 7%;
 }
