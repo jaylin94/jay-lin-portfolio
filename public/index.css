@@ -21,7 +21,7 @@ body {
 
 .card {
   max-height: 500px;
-  min-height: 500px;
+  /* min-height: 500px; */
   margin: auto;
   margin-bottom: 2%;
   width: 20rem;
