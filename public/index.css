@@ -19,12 +19,12 @@ body {
   padding-right: 0px;
 }
 
-.card {
-  max-height: 500px;
+.card-deck {
+  /* max-height: 500px; */
   /* min-height: 500px; */
   margin: auto;
   margin-bottom: 2%;
-  width: 20rem;
+  /* width: 20rem; */
 }
 
 .card-text {
@@ -90,10 +90,6 @@ body {
   min-width: 320px;
 }
 
-.projectElement {
-  padding: 1% 0%;
-}
-
 .card-title {
   font-family: 'Literata', serif;
 }
@@ -110,4 +106,8 @@ body {
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
+}
+
+#contactTop {
+  padding-top: 5%;
 }
