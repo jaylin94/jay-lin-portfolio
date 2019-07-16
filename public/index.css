@@ -41,7 +41,6 @@ body {
 
   margin: auto;
   padding-top: 20vh;
-  /* height: 120vh; */
   width: 100vw;
   min-width: 320px;
   min-height: 120vh;
@@ -51,9 +50,13 @@ body {
 }
 
 #headerName {
-  padding-bottom: 5vh;
+  padding-bottom: 1vh;
   font-family: 'Literata', serif;
   text-shadow: 3px 1px 5px gray;
+}
+
+#headerTitle {
+  padding-bottom: 2vh;
 }
 
 #headerNote {
