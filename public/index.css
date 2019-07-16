@@ -94,12 +94,3 @@ body {
 #resumeTop {
   margin-top: 10%;
 }
-
-.btn-primary, .btn-secondary {
-  opacity: 0.8;
-}
-
-
-.rgbImg {
-  border: 1px solid rgba(220, 220, 220, 0.8);
-}
