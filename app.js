@@ -11,4 +11,4 @@ app.get("/", (req, res) => {
 });
 
 
-app.listen(process.env.PORT, process.env.IP);
+app.listen(9392, process.env.IP);
