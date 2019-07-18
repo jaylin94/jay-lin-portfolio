@@ -8,6 +8,7 @@ body {
   justify-content: center;
   /* font-family: 'Literata', serif; */
   font-family: 'Raleway', sans-serif;
+  background-color: lightgrey;
 }
 
 .row {
