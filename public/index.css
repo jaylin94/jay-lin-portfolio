@@ -108,13 +108,13 @@ body {
   min-width: 313px;
 }
 
-.projects .btn-primary {
+.projects .btn-primary, #resumeDownload {
   background-color: rgba(255, 255, 255, 0.3);
   color: black;
   transition: background-color 1s;
 }
 
-.projects .btn-primary:hover {
+.projects .btn-primary:hover, #resumeDownload:hover {
   background-color: rgba(0, 0, 0, 1);
   color: white;
 }
