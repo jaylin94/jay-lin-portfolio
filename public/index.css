@@ -108,6 +108,28 @@ body {
   min-width: 313px;
 }
 
+.projects .btn-primary {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+  transition: background-color 1s;
+}
+
+.projects .btn-primary:hover {
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+}
+
+.projects .btn-secondary {
+  background-color: rgba(150, 150, 150, 0.3);
+  color: black;
+  transition: background-color 1s;
+}
+
+.projects .btn-secondary:hover {
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+}
+
 .card-title {
   font-family: 'Literata', serif;
 }
