@@ -103,6 +103,10 @@ body {
   min-width: 313px;
 }
 
+.projectDescription {
+  font-size: 1.25rem;
+}
+
 .projects .btn-primary, #resumeDownload {
   background-color: rgba(255, 255, 255, 0.3);
   color: black;
@@ -130,8 +134,7 @@ body {
 }
 
 #projectTop {
-  padding-bottom: 5%;
-  padding-top: 2%;
+  font-weight: 100;
 }
 
 #resumeTop {
@@ -147,4 +150,13 @@ body {
 #contactTop {
   padding-top: 5%;
   min-width: 320px;
+}
+
+@media (max-width: 900px) {
+  #header {
+    padding-top: 1vh;
+  }
+  .projectDescription {
+    font-size: 1rem;
+  }
 }
