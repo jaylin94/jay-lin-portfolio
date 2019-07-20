@@ -1,6 +1,6 @@
 @keyframes clearHover {
   from {background-color: rgba(255, 255, 255, 0.3);}
-  to {background-color: rgba(255, 255, 255, 0.9);}
+  to {background-color: rgba(255, 255, 255, 0.93);}
 }
 
 html {
@@ -94,7 +94,7 @@ body {
 #projectLink:hover, #resumeLink:hover, #contactLink:hover {
   animation-name: clearHover;
   animation-direction: alternate;
-  animation-duration: 1.5s;
+  animation-duration: 0.8s;
   animation-iteration-count: infinite;
 }
 
