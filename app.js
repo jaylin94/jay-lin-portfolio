@@ -10,5 +10,4 @@ app.get("/", (req, res) => {
   res.render("index");
 });
 
-
-app.listen(process.env.PORT, process.env.IP);
+app.listen(9392, process.env.IP);
