@@ -31,7 +31,7 @@ body {
 }
 
 #header {
-  background-image: url("/imgs/andrej-lisakov-3A4XZUopCJA-unsplash.jpg");
+  background-image: url("/imgs/andrej-lisakov-3A4XZUopCJA-unsplash-min.jpg");
   background-position: center center;
   background-size: cover;
   background-color: white;
@@ -141,7 +141,7 @@ body {
   margin-top: 10%;
   padding-bottom: 5%;
   padding-top: 5%;
-  background-image: url("/imgs/jeshoots-com-pUAM5hPaCRI-unsplash.jpg");
+  background-image: url("/imgs/jeshoots-com-pUAM5hPaCRI-unsplash-min.jpg");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
